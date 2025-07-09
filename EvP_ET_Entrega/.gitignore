@@ -1,0 +1,18 @@
+# Ignorar entorno virtual
+venv/
+
+# Archivos de Python compilados
+__pycache__/
+*.py[cod]
+
+# Archivos temporales / logs
+*.log
+
+# Archivos ocultos del sistema
+.DS_Store
+
+# Configuración local de editores
+.vscode/
+
+# Archivos de entorno
+.env
